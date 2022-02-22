@@ -14,4 +14,6 @@ Welcome! More information will be provided later...
 
 ### Who manage this site?
 
-[Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. 
+[Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. To contact: yuhao.sun at ed.ac.uk
+
+Last Updated: 23 Feb 2022
