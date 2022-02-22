@@ -6,12 +6,12 @@ Welcome! More information will be provided later...
 
 ### Resources
 
-http://polygenicscores.org/explained/
+[What is PRS? - Broad Institue](http://polygenicscores.org/explained/)
 
-https://www.phgfoundation.org/report/polygenic-scores-cardiovascular
+[Introduction to PRS - NIH](https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores)
 
-https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores
+[More about PRS - University of Cambridge](https://www.phgfoundation.org/report/polygenic-scores-cardiovascular)
 
 ### Who manage this site?
 
-Yuhao Sun, a PhD student at the University of Edinburgh. 
+[Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. 
