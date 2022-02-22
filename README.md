@@ -1,6 +1,6 @@
 ## Understanding The Public Attitude to Polygenic Risk Scores
 
-Welcome!
+Welcome! More information will be provided later...
 
 
 
