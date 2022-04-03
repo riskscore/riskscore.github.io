@@ -32,5 +32,6 @@ Polygenic Risk Score (PRS) is a practical example of precision medicine. They in
 [Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. Affilated at Roslin Institute & Institute for Design Informatics. To contact: yuhao.sun at ed.ac.uk
 
 
-<em>This research is funded by China Scholarship Council & University of Edinburgh PhD Scholarship fully.</em>
+<em>This research is funded by China Scholarship Council & University of Edinburgh PhD Scholarship.</em>
+
 Last Updated: 3 April 2022
