@@ -1,4 +1,11 @@
 ## Understanding The Public Attitude to Polygenic Risk Scores
+<html>
+  <head>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scel<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span></p>
+
+<button onclick="myFunction()" id="myBtn">Read more</button>
+  </head>
+</html>
 
 Polygenic Risk Score (PRS) is a practical example of precision medicine. They indicate a patient’s relative risk of developing a certain disease by comparing huge amounts of genetic data from persons with and without the condition. Each PRS locates on a normal distribution, which means that while most people will find their findings in the center, others will find their results on the tails, indicating that they are either at low or high risk. PRS appears to be an effective guide for those seeking to understand their future health portfolio. Currently, because of a lack of adequate official practice guidelines, PRS is not regarded as a standard technique in healthcare organisations. Alternatively, general individuals can submit their genotype to a third-party portal created specifically for PRS analysis and receive a report. However, not everyone is willing to submit to a PRS analysis. Some people are unaware of PRS analysis’s existence, while others opt not to do it, subjectively. Our research will strive to ascertain the reasons behind these individuals’ reluctance to seek additional PRS analysis. Eventually, the findings may aid in the development of PRS and assist the public in more effectively understanding their health state.
 
