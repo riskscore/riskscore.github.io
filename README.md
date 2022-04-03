@@ -2,9 +2,14 @@
 
 Polygenic Risk Score (PRS) is a practical example of precision medicine. They indicate a patient’s relative risk of developing a certain disease by comparing huge amounts of genetic data from persons with and without the condition. Each PRS locates on a normal distribution, which means that while most people will find their findings in the center, others will find their results on the tails, indicating that they are either at low or high risk. PRS appears to be an effective guide for those seeking to understand their future health portfolio. Currently, because of a lack of adequate official practice guidelines, PRS is not regarded as a standard technique in healthcare organisations. Alternatively, general individuals can submit their genotype to a third-party portal created specifically for PRS analysis and receive a report. However, not everyone is willing to submit to a PRS analysis. Some people are unaware of PRS analysis’s existence, while others opt not to do it, subjectively. Our research will strive to ascertain the reasons behind these individuals’ reluctance to seek additional PRS analysis. Eventually, the findings may aid in the development of PRS and assist the public in more effectively understanding their health state.
 
+### Download
 
+[2022 Research Day Poster](http://polygenicscores.org/explained/)
+[2022 Research Day Poster Pitch (slides)](http://polygenicscores.org/explained/)
 
-### Resources
+[3 Minute Thesis 2022](https://media.ed.ac.uk/media/Yuhao+Sun+%28College+of+Medicine+%26+Veterinary+Medicine%29+-+3+Minute+Thesis+2022/1_zaoye85a?st=0)
+
+### External Resources
 
 [What is PRS? - Broad Institue](http://polygenicscores.org/explained/)
 
