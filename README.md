@@ -4,10 +4,11 @@ Polygenic Risk Score (PRS) is a practical example of precision medicine. They in
 
 ### Download
 
-[2022 Research Day Poster](http://polygenicscores.org/explained/)
-[2022 Research Day Poster Pitch (slides)](http://polygenicscores.org/explained/)
+2022 Research Day Poster [Download](http://polygenicscores.org/explained/)
 
-[3 Minute Thesis 2022](https://media.ed.ac.uk/media/Yuhao+Sun+%28College+of+Medicine+%26+Veterinary+Medicine%29+-+3+Minute+Thesis+2022/1_zaoye85a?st=0)
+2022 Research Day Poster Pitch (slides)[Download](http://polygenicscores.org/explained/)
+
+[Video - 3 Minute Thesis 2022](https://media.ed.ac.uk/media/Yuhao+Sun+%28College+of+Medicine+%26+Veterinary+Medicine%29+-+3+Minute+Thesis+2022/1_zaoye85a?st=0)
 
 ### External Resources
 
@@ -19,6 +20,6 @@ Polygenic Risk Score (PRS) is a practical example of precision medicine. They in
 
 ### Who manage this site?
 
-[Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. To contact: yuhao.sun at ed.ac.uk
+[Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. Affilated at Roslin Institute & Institute for Design Informatics. To contact: yuhao.sun at ed.ac.uk
 
-Last Updated: 27 March 2022
+Last Updated: 3 April 2022
