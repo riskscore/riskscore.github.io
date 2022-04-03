@@ -52,6 +52,8 @@ function myFunction() {
 
 [More about PRS - University of Cambridge](https://www.phgfoundation.org/report/polygenic-scores-cardiovascular)
 
+[impute.me - a non-for-profit PRS analysis website](https://impute.me/)
+
 ### Who manage this site?
 
 [Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. Affilated at Roslin Institute & Institute for Design Informatics. To contact: yuhao.sun at ed.ac.uk
