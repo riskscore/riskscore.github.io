@@ -59,4 +59,6 @@ function myFunction() {
 
 <em>This research is funded by China Scholarship Council & University of Edinburgh PhD Scholarship.</em>
 
+![Affilations](institutions.png "Funded by")
+
 Last Updated: 3 April 2022
