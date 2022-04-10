@@ -58,9 +58,11 @@ function myFunction() {
 
 [Yuhao Sun](https://yuhaosun.com/), a PhD student at the University of Edinburgh. Affilated at Roslin Institute & Institute for Design Informatics. To contact: yuhao.sun at ed.ac.uk
 
+The research is supervised by Prof Albert Tenesa and Prof John Vines.
+
 
 <em>This research is funded by China Scholarship Council & University of Edinburgh PhD Scholarship.</em>
 
 ![Affilations](institutions.png "Funded by")
 
-Last Updated: 3 April 2022
+Last Updated: 10 April 2022
